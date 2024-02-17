@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="72" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Player or NPC worships Azeyma." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h77a0c7b0g4a6bg48fega24ega7c83acb8ca7" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="AZEYMA" />
+			<attribute id="UUID" type="guid" value="8f0eea63-846c-4641-9527-f056ecdbfd65" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Deity" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
