@@ -6,7 +6,7 @@
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSWString" value="Ani-ki"/>
+                    <attribute id="Author" type="LSWString" value="Blood Moon Mods"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSWString" value="Adds the Eorzean pantheon as selectable good-aligned Gods for character creation. This does not add any new dialogue, and is intended for roleplaying purposes only."/>
                     <attribute id="Folder" type="LSWString" value="TheTwelve"/>
