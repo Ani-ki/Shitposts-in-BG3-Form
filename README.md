@@ -1,5 +1,5 @@
 # Shitposts-in-BG3-Form
-This is just a backup of my BG3 mod comms.
+This is just a backup of my BG3 mods
 
 
 
