@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="Gods">
+        <node id="root">
+            <children>
+                <node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="hb1cb03eeged9bg4442gae57ga7c0f2e5dd47" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h109173c2g20adg488bg83dfg85bb72e4c61f" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Byregot"/>
+					<attribute id="Icon" type="FixedString" value="Byregot"/>
+                    <attribute id="UUID" type="guid" value="c9aaf541-edad-48c3-a0d0-6d0e923cd388"/>
+                    <children>
+					    <node id="Tags">
+                            <attribute id="Object" type="guid" value="68189f95-b5e0-4337-82fe-b80c61f94135"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h84fd3228g9d30g40bcg9499g10b58294b96f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc4ecfce9gf145g4649gbd0eg8aff2edfa140" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Rhalgr"/>
+					<attribute id="Icon" type="FixedString" value="Rhalgr"/>
+                    <attribute id="UUID" type="guid" value="a42ac66e-ffd5-411a-994b-5610040f1715"/>
+                    <children>
+					    <node id="Tags">
+                            <attribute id="Object" type="guid" value="2451633c-a88e-4ae3-8c13-4b5bbbb47dbd"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h59eddc22g4335g4298g864bg3260ab505c37" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h77a0c7b0g4a6bg48fega24ega7c83acb8ca7" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Azeyma"/>
+					<attribute id="Icon" type="FixedString" value="Azeyma"/>
+                    <attribute id="UUID" type="guid" value="e3d074a9-049d-48e1-a231-b2842b328908"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="8f0eea63-846c-4641-9527-f056ecdbfd65"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h59eddc22g4335g4298g864bg3260ab505c37" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h113272b6gba02g4b99g8ae0g9309da7ec56a" version="1"/>
+                    <attribute id="Name" type="FixedString" value="NaldThal"/>
+					<attribute id="Icon" type="FixedString" value="NaldThal"/>
+                    <attribute id="UUID" type="guid" value="708f183c-bddf-4fd8-8b49-6a72d8c3c96f"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="01c3efb4-d86d-4e83-a968-022612b461dd"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h5daa82e2gd2c4g48e7g8761g20a9df6b1fb5" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h440fdb90gc301g43d9g97aag7f1176bd8c5b" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Nophica"/>
+					<attribute id="Icon" type="FixedString" value="Nophica"/>
+                    <attribute id="UUID" type="guid" value="ad17bd09-6c33-406b-beae-b93919521333"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="82cad523-c70e-4434-a178-73c52c626265"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h5daa82e2gd2c4g48e7g8761g20a9df6b1fb5" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9916aa63ge2fdg461dg8caeg2ededb8c0631" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Althyk"/>
+					<attribute id="Icon" type="FixedString" value="Althyk"/>
+                    <attribute id="UUID" type="guid" value="703ddc7b-bffb-4e52-bf35-9a20a3d7b2c3"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c0dfe52e-8681-44e7-b01a-bfcd92e3227e"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="hee9c3680gb686g4241g8ab0g1ba43639a0ed" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9821a976gdce7g43dbg9530ge121c3069864" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Halone"/>
+					<attribute id="Icon" type="FixedString" value="Halone"/>
+                    <attribute id="UUID" type="guid" value="98a879bd-f866-4727-b5ee-3a4e61882fa0"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c4498664-6473-4d0a-a8a8-c50b0fec5533"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+					</children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h008b6d80gf657g45bag9f33g9917ee52428f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he9e0a408gb5f7g4362gb0bdgc2a4b7993bf7" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Menphina"/>
+					<attribute id="Icon" type="FixedString" value="Menphina"/>
+                    <attribute id="UUID" type="guid" value="d22174a3-aa45-41e5-ad5b-cc44ed6c9263"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="54f9c60e-7bfb-45c0-a807-37562c8475c2"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>				
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h9c9c9c35g438dg4aa8g94f6g750fec465bd3" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h79e904d5gae58g4006g92c7g951be818ba7c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Thaliak"/>
+					<attribute id="Icon" type="FixedString" value="Thaliak"/>
+                    <attribute id="UUID" type="guid" value="f2145006-4c6d-4222-83b9-a83ec12c54d4"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="9bf0056a-dcb2-4f2c-9882-d41e2d23c029"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="hc1f55b16gbb76g4dc4g9f76gcb07a2283b00" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc93c4a12g2322g42ddgad1ag8026fda43469" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Nymeia"/>
+					<attribute id="Icon" type="FixedString" value="Nymeia"/>
+                    <attribute id="UUID" type="guid" value="ca285e3b-2af3-42a2-9497-9851edd94d67"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="fb6ddb62-f9ec-42ed-b8ed-d425c145c584"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h09ba25e1g61d5g47dag9f3dg3a3394158da9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6b4308a9gc5dbg49e7g969cg9ef1ecb18af1" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Llymlaen"/>
+					<attribute id="Icon" type="FixedString" value="Llymlaen"/>
+                    <attribute id="UUID" type="guid" value="583fed36-16a1-4033-800d-2d6c61e8bb93"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a7db20de-6aac-45be-92d1-b0cfe5b1c229"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h4f007545g1102g47c0gacbdg80d5f2f12679" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc453a0b2g972ag4baag93bbg2a61c1eb1ce5" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Oschon"/>
+					<attribute id="Icon" type="FixedString" value="Oschon"/>
+                    <attribute id="UUID" type="guid" value="fdd002f2-a692-4304-bffc-b62ced21b5b6"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d75a981a-6a40-4763-854d-621799052fe0"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
