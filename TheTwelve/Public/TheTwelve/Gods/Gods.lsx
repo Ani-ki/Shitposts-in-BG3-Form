@@ -24,7 +24,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="hc4ecfce9gf145g4649gbd0eg8aff2edfa140" version="1"/>
                     <attribute id="Name" type="FixedString" value="Rhalgr"/>
 					<attribute id="Icon" type="FixedString" value="Rhalgr"/>
-                    <attribute id="UUID" type="guid" value="a42ac66e-ffd5-411a-994b-5610040f1715"/>
+                    <attribute id="UUID" type="guid" value="6b3490eb-d23e-47ae-8f9e-8209ee9e5e31"/>
                     <children>
 					    <node id="Tags">
                             <attribute id="Object" type="guid" value="2451633c-a88e-4ae3-8c13-4b5bbbb47dbd"/>
@@ -39,7 +39,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h77a0c7b0g4a6bg48fega24ega7c83acb8ca7" version="1"/>
                     <attribute id="Name" type="FixedString" value="Azeyma"/>
 					<attribute id="Icon" type="FixedString" value="Azeyma"/>
-                    <attribute id="UUID" type="guid" value="e3d074a9-049d-48e1-a231-b2842b328908"/>
+                    <attribute id="UUID" type="guid" value="a9c26509-1401-441b-b1a5-55ee21522ecc"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="8f0eea63-846c-4641-9527-f056ecdbfd65"/>
@@ -54,7 +54,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h113272b6gba02g4b99g8ae0g9309da7ec56a" version="1"/>
                     <attribute id="Name" type="FixedString" value="NaldThal"/>
 					<attribute id="Icon" type="FixedString" value="NaldThal"/>
-                    <attribute id="UUID" type="guid" value="708f183c-bddf-4fd8-8b49-6a72d8c3c96f"/>
+                    <attribute id="UUID" type="guid" value="8589a212-b8a7-44d1-a84b-d8b1fdb25bcf"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="01c3efb4-d86d-4e83-a968-022612b461dd"/>
@@ -69,7 +69,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h440fdb90gc301g43d9g97aag7f1176bd8c5b" version="1"/>
                     <attribute id="Name" type="FixedString" value="Nophica"/>
 					<attribute id="Icon" type="FixedString" value="Nophica"/>
-                    <attribute id="UUID" type="guid" value="ad17bd09-6c33-406b-beae-b93919521333"/>
+                    <attribute id="UUID" type="guid" value="d756fbaa-0637-45e8-a7b8-2a4f6705b1c6"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="82cad523-c70e-4434-a178-73c52c626265"/>
@@ -84,7 +84,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h9916aa63ge2fdg461dg8caeg2ededb8c0631" version="1"/>
                     <attribute id="Name" type="FixedString" value="Althyk"/>
 					<attribute id="Icon" type="FixedString" value="Althyk"/>
-                    <attribute id="UUID" type="guid" value="703ddc7b-bffb-4e52-bf35-9a20a3d7b2c3"/>
+                    <attribute id="UUID" type="guid" value="d04a45ad-80b6-41c2-819d-9959afc7f191"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c0dfe52e-8681-44e7-b01a-bfcd92e3227e"/>
@@ -99,7 +99,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h9821a976gdce7g43dbg9530ge121c3069864" version="1"/>
                     <attribute id="Name" type="FixedString" value="Halone"/>
 					<attribute id="Icon" type="FixedString" value="Halone"/>
-                    <attribute id="UUID" type="guid" value="98a879bd-f866-4727-b5ee-3a4e61882fa0"/>
+                    <attribute id="UUID" type="guid" value="28a59e8a-f07d-424d-8f38-a32711365e5b"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c4498664-6473-4d0a-a8a8-c50b0fec5533"/>
@@ -114,7 +114,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="he9e0a408gb5f7g4362gb0bdgc2a4b7993bf7" version="1"/>
                     <attribute id="Name" type="FixedString" value="Menphina"/>
 					<attribute id="Icon" type="FixedString" value="Menphina"/>
-                    <attribute id="UUID" type="guid" value="d22174a3-aa45-41e5-ad5b-cc44ed6c9263"/>
+                    <attribute id="UUID" type="guid" value="49167120-0fb3-4861-8f41-8e243cebc514"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="54f9c60e-7bfb-45c0-a807-37562c8475c2"/>
@@ -129,7 +129,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h79e904d5gae58g4006g92c7g951be818ba7c" version="1"/>
                     <attribute id="Name" type="FixedString" value="Thaliak"/>
 					<attribute id="Icon" type="FixedString" value="Thaliak"/>
-                    <attribute id="UUID" type="guid" value="f2145006-4c6d-4222-83b9-a83ec12c54d4"/>
+                    <attribute id="UUID" type="guid" value="30ed739b-db4f-4e78-ae31-95d584ae6be1"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="9bf0056a-dcb2-4f2c-9882-d41e2d23c029"/>
@@ -144,7 +144,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="hc93c4a12g2322g42ddgad1ag8026fda43469" version="1"/>
                     <attribute id="Name" type="FixedString" value="Nymeia"/>
 					<attribute id="Icon" type="FixedString" value="Nymeia"/>
-                    <attribute id="UUID" type="guid" value="ca285e3b-2af3-42a2-9497-9851edd94d67"/>
+                    <attribute id="UUID" type="guid" value="e8ebf100-4f19-41e4-b3a7-6d3ca2418b52"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="fb6ddb62-f9ec-42ed-b8ed-d425c145c584"/>
@@ -159,7 +159,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h6b4308a9gc5dbg49e7g969cg9ef1ecb18af1" version="1"/>
                     <attribute id="Name" type="FixedString" value="Llymlaen"/>
 					<attribute id="Icon" type="FixedString" value="Llymlaen"/>
-                    <attribute id="UUID" type="guid" value="583fed36-16a1-4033-800d-2d6c61e8bb93"/>
+                    <attribute id="UUID" type="guid" value="5087a7cf-a1a8-4a46-b207-680ab6ade317"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a7db20de-6aac-45be-92d1-b0cfe5b1c229"/>
@@ -174,7 +174,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="hc453a0b2g972ag4baag93bbg2a61c1eb1ce5" version="1"/>
                     <attribute id="Name" type="FixedString" value="Oschon"/>
 					<attribute id="Icon" type="FixedString" value="Oschon"/>
-                    <attribute id="UUID" type="guid" value="fdd002f2-a692-4304-bffc-b62ced21b5b6"/>
+                    <attribute id="UUID" type="guid" value="38de191b-06ab-49bc-b265-89bdd0b774a5"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="d75a981a-6a40-4763-854d-621799052fe0"/>

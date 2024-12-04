@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="72" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Player or NPC worships Rhalgr." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hc4ecfce9gf145g4649gbd0eg8aff2edfa140" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="RHALGR" />
+			<attribute id="UUID" type="guid" value="2451633c-a88e-4ae3-8c13-4b5bbbb47dbd" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Deity" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
